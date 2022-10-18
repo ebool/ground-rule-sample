@@ -15,6 +15,3 @@ assignees: ebool
 
 **기존 룰과 충돌하나요?**
 Y / N
-
-**Additional context**
-Add any other context or screenshots about the feature request here.
